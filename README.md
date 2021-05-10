@@ -1,4 +1,4 @@
 # Reto Master Semana 1
 ## Conceptos
 ### Nube
-![](Assets/nube.png)
+![](https://github.com/Spiderhead616/Reto-Master-Semana-1/blob/main/Assets/Nube.png)
